@@ -9,7 +9,7 @@ const App = () => {
     <div>
 
     <NavBar/>
-    <ItemListContainer greeting= "Bienvenidos a mi tienda" />
+    <ItemListContainer greeting= "Bienvenidos a mi tiendaOnline" />
 
     </div>
     </>
